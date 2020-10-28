@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PsvDecrypt", "PsvDecrypt.csproj", "{7F2E958A-B2E9-46B0-A545-BEF0D2506F6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F2E958A-B2E9-46B0-A545-BEF0D2506F6C}.Debug|x86.ActiveCfg = Debug|x86
+		{7F2E958A-B2E9-46B0-A545-BEF0D2506F6C}.Debug|x86.Build.0 = Debug|x86
+		{7F2E958A-B2E9-46B0-A545-BEF0D2506F6C}.Release|x86.ActiveCfg = Release|x86
+		{7F2E958A-B2E9-46B0-A545-BEF0D2506F6C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {106411F8-4695-4DDF-A11A-88D1C9D0BE31}
+	EndGlobalSection
+EndGlobal

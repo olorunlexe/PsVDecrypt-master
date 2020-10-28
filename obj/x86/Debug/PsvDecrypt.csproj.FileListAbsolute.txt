@@ -1,0 +1,14 @@
+C:\Users\emmanuel.agboola\Downloads\PsVDecrypt-master\obj\x86\Debug\PsvDecrypt.csproj.CoreCompileInputs.cache
+C:\Users\emmanuel.agboola\Downloads\PsVDecrypt-master\bin\Debug\ConsoleApplication.exe.config
+C:\Users\emmanuel.agboola\Downloads\PsVDecrypt-master\bin\Debug\ConsoleApplication.exe
+C:\Users\emmanuel.agboola\Downloads\PsVDecrypt-master\bin\Debug\ConsoleApplication.pdb
+C:\Users\emmanuel.agboola\Downloads\PsVDecrypt-master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\emmanuel.agboola\Downloads\PsVDecrypt-master\bin\Debug\System.Data.SQLite.dll
+C:\Users\emmanuel.agboola\Downloads\PsVDecrypt-master\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\emmanuel.agboola\Downloads\PsVDecrypt-master\bin\Debug\Newtonsoft.Json.xml
+C:\Users\emmanuel.agboola\Downloads\PsVDecrypt-master\bin\Debug\System.Data.SQLite.xml
+C:\Users\emmanuel.agboola\Downloads\PsVDecrypt-master\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\emmanuel.agboola\Downloads\PsVDecrypt-master\obj\x86\Debug\PsvDecrypt.csproj.CopyComplete
+C:\Users\emmanuel.agboola\Downloads\PsVDecrypt-master\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\emmanuel.agboola\Downloads\PsVDecrypt-master\obj\x86\Debug\ConsoleApplication.pdb
+C:\Users\emmanuel.agboola\Downloads\PsVDecrypt-master\obj\x86\Debug\PsvDecrypt.csprojAssemblyReference.cache
